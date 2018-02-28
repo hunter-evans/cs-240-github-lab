@@ -14,7 +14,7 @@ Spanish, French, German, Italian, Portuguese, Swedish. The default language is
 
 ### Using the test program example:
 
-1. `g++ -std="c++0x" -o /usr/local/bin/polyGLOB *.cpp` ... for a *demo*, it is easiest to jam it all together.
+1. `g++ -std=c++11 *.cpp -o polyGLOB` ... for a *demo*, it is easiest to jam it all together.
 2. `polyGLOB < some-file-of-text`
 
 
