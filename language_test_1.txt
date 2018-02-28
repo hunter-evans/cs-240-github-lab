@@ -1,0 +1,8 @@
+This file is designed to be identified as English, based on the following phrases
+placed in the file. The quick brown fox jumped over the lazy dog. Would you like to
+go to the store on Sunday, or would you prefer Monday. Four scoure and seven years
+ago, our fathers brought forth on this continent a new nation, conceived in liberty
+and dedicated to the proposition that all men are created equal. We hold these
+truths to be self evident that all men are created equal, and are endowed with
+certain unalienable rights, among these are life, liberty, and the pursuit of
+happiness.
